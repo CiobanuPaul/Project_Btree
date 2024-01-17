@@ -1,0 +1,3 @@
+/home/cartofiprajiti/Structuri de Date/Project2-Btree/cmake-build-debug/CMakeFiles/Project2_Btree.dir
+/home/cartofiprajiti/Structuri de Date/Project2-Btree/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cartofiprajiti/Structuri de Date/Project2-Btree/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+/home/cartofiprajiti/CLion/clion-2022.3.2/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/cartofiprajiti/CLion/clion-2022.3.2/bin/ninja/linux/x64/ninja -G Ninja -S "/home/cartofiprajiti/Structuri de Date/Project2-Btree" -B "/home/cartofiprajiti/Structuri de Date/Project2-Btree/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/cartofiprajiti/Structuri de Date/Project2-Btree/cmake-build-debug
